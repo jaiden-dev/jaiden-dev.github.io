@@ -1,0 +1,3040 @@
+[
+    {
+      "shown": true,
+      "name": "Walmart",
+      "domain": "walmart.",
+      "target": "[PRODUCT]",
+      "shutaf": "https://goto.walmart.com/c/2670192/565706/9383?veh=aff&sourceid=imp_000011112222333344&u="
+    },
+    {
+      "shown": false,
+      "name": "eBay",
+      "domain": "ebay.",
+      "target": "[PRODUCT]",
+      "shutaf": "[API]"
+    },
+    {
+      "shown": false,
+      "name": "Amazon",
+      "domain": "amazon.",
+      "target": "[PRODUCT]",
+      "shutaf": "[API]"
+    },
+    {
+      "shown": true,
+      "name": "Ali Express",
+      "domain": "aliexpress.",
+      "target": "[PRODUCT]",
+      "shutaf": "[DECODING]"
+    },
+    {
+      "shown": true,
+      "name": "Ivory",
+      "domain": "ivory.co.il",
+      "target": "?id=",
+      "shutaf": "https://ad.admitad.com/g/euert2rkxx77b32f8c014594ce55fc/?ulp="
+    },
+    {
+      "shown": true,
+      "name": "Panda VPN",
+      "domain": "pandavpnpro.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/osv3hu1ed977b32f8c0193ac1d31ad/?ulp="
+    },
+    {
+      "shown": true,
+      "name": "Name Cheap",
+      "domain": "namecheap.com",
+      "target": "/",
+      "shutaf": "https://namecheap.pxf.io/5bLeKb"
+    },
+    {
+      "shown": true,
+      "name": "Stockmarket Eye",
+      "domain": "stockmarketeye.com",
+      "target": "/",
+      "shutaf": "https://stockmarketeye.7eer.net/Zd4kqK"
+    },
+    {
+      "shown": true,
+      "name": "eBags",
+      "domain": "ebags.com",
+      "target": "/",
+      "shutaf": "https://ebags.vayb.net/BXAWBB"
+    },
+    {
+      "shown": true,
+      "name": "Belkin USA",
+      "domain": "belkin.com",
+      "target": "/us/",
+      "shutaf": "https://belkin.evyy.net/WDKjgJ"
+    },
+    {
+      "shown": true,
+      "name": "Travel Start",
+      "domain": "travelstart.com",
+      "target": "/",
+      "shutaf": "https://travelstart.zwjlk6.net/6bqa7Q"
+    },
+    {
+      "shown": true,
+      "name": "Mileage Plus",
+      "domain": "buymiles.mileageplus.com",
+      "target": "/united",
+      "shutaf": "https://united.elfm.net/qnN9ng"
+    },
+    {
+      "shown": true,
+      "name": "Southwest",
+      "domain": "southwest.com",
+      "target": "/rapidrewards/buy-points",
+      "shutaf": "https://swa.eyjo.net/RyaxKX"
+    },
+    {
+      "shown": true,
+      "name": "Alaska Air",
+      "domain": "storefront.points.com",
+      "target": "/mileage-plan/",
+      "shutaf": "https://alaska.gqco.net/MXj4gM"
+    },
+    {
+      "shown": true,
+      "name": "Immune Tree",
+      "domain": "immunetree.com",
+      "target": "/",
+      "shutaf": "https://immune-tree.sjv.io/Ke9Rg7"
+    },
+    {
+      "shown": true,
+      "name": "World of Hyatt",
+      "domain": "hyatt.com",
+      "target": "/",
+      "shutaf": "https://hyatt.jewn.net/LPrvgV"
+    },
+    {
+      "shown": true,
+      "name": "Hilton Honors",
+      "domain": "hiltonhonors3.hilton.com",
+      "target": "/en/",
+      "shutaf": "https://hilton.ijrn.net/jW2EVM"
+    },
+    {
+      "shown": true,
+      "name": "IHG Rewards Club",
+      "domain": "storefront.points.com",
+      "target": "/IHG-rewards-club",
+      "shutaf": "https://ihg.hmxg.net/5bLeqb"
+    },
+    {
+      "shown": true,
+      "name": "Lenovo India",
+      "domain": "lenovo.com",
+      "target": "/in/",
+      "shutaf": "https://lenovo-in.zlvv.net/kjbnk0"
+    },
+    {
+      "shown": true,
+      "name": "Cheapo Air",
+      "domain": "cheapoair.com",
+      "target": "/",
+      "shutaf": "https://cheapoair.ppa7q7.net/RyaxLX"
+    },
+    {
+      "shown": true,
+      "name": "Easy Ship",
+      "domain": "easyship.com",
+      "target": "/",
+      "shutaf": "https://easyship.ilbqy6.net/4eKkL0"
+    },
+    {
+      "shown": true,
+      "name": "Share a Sale",
+      "domain": "shareasale.com",
+      "target": "/",
+      "shutaf": "https://www.shareasale.com/r.cfm?b=40&u=2756346&m=47"
+    },
+    {
+      "shown": true,
+      "name": "Delphinus",
+      "domain": "delphinusworld.com",
+      "target": "/",
+      "shutaf": "https://www.shareasale.com/r.cfm?b=1232178&u=2756346&m=82050"
+    },
+    {
+      "shown": true,
+      "name": "Kindred Bravely",
+      "domain": "kindredbravely.com",
+      "target": "/",
+      "shutaf": "https://www.shareasale.com/r.cfm?b=1318797&u=2756346&m=86157"
+    },
+    {
+      "shown": true,
+      "name": "xSuit",
+      "domain": "xsuit.com",
+      "target": "/",
+      "shutaf": "https://shareasale.com/r.cfm?b=1781256&u=2756346&m=111005&urllink=&afftrack="
+    },
+    {
+      "shown": true,
+      "name": "Lingualeo",
+      "domain": "lingualeo.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/e583077b6377b32f8c01c814d4b7c0/"
+    },
+    {
+      "shown": true,
+      "name": "Banggood",
+      "domain": "banggood.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/e8f129b05e77b32f8c016213826a88/"
+    },
+    {
+      "shown": true,
+      "name": "Tefal",
+      "domain": "shop.tefal.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/4g9wcb99tf77b32f8c0184f7c78da0/"
+    },
+    {
+      "shown": true,
+      "name": "Karnaval",
+      "domain": "my-karnaval.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/2n8m9ykjd377b32f8c0170d137b211/"
+    },
+    {
+      "shown": true,
+      "name": "DHgate",
+      "domain": "dhgate.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/pzwp2neyhy77b32f8c016a95c12d58/"
+    },
+    {
+      "shown": true,
+      "name": "Wikium",
+      "domain": "wikium.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/rzud0qs6fh77b32f8c014bfa9a7f2b/"
+    },
+    {
+      "shown": true,
+      "name": "Floraexpress",
+      "domain": "floraexpress.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/bg71l7yp6577b32f8c01c1e2b709c0/"
+    },
+    {
+      "shown": true,
+      "name": "Geekbuying",
+      "domain": "geekbuying.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/78tuvzaw8k77b32f8c010267b86f6e/"
+    },
+    {
+      "shown": true,
+      "name": "Faasos",
+      "domain": "faasos.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/nknpm3sq5c77b32f8c01264a89c4b2/"
+    },
+    {
+      "shown": true,
+      "name": "Newchic",
+      "domain": "newchic.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/0i4jszvwip77b32f8c013442850f04/"
+    },
+    {
+      "shown": true,
+      "name": "Bask",
+      "domain": "bask.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/mbiwilps7c77b32f8c01083675f20b/"
+    },
+    {
+      "shown": true,
+      "name": "Lifestyle",
+      "domain": "lifestylestores.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/fnh2zz6hgy77b32f8c01f4dc63a602/"
+    },
+    {
+      "shown": true,
+      "name": "Lakestone",
+      "domain": "lakestone.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/qyej4irmro77b32f8c016094969c4d/"
+    },
+    {
+      "shown": true,
+      "name": "Rigla",
+      "domain": "rigla.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/wni59pjt8a77b32f8c015b4157882f/"
+    },
+    {
+      "shown": true,
+      "name": "Cafago",
+      "domain": "cafago.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/xrzqqr83az77b32f8c010789458fbf/"
+    },
+    {
+      "shown": true,
+      "name": "Alenka",
+      "domain": "alenka.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/hzssb78yxy77b32f8c0145305aaa81/"
+    },
+    {
+      "shown": true,
+      "name": "Bodyshop",
+      "domain": "thebodyshop.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/lzr8imvjy377b32f8c014d6a1ae99e/"
+    },
+    {
+      "shown": true,
+      "name": "Croma",
+      "domain": "croma.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/rjmwpd17fq77b32f8c0121602b7160/"
+    },
+    {
+      "shown": true,
+      "name": "RaynaTours",
+      "domain": "raynatours.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ofc53p8nis77b32f8c01e94db72a90/"
+    },
+    {
+      "shown": true,
+      "name": "ChicMe",
+      "domain": "chicme.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/gf807z8tar77b32f8c01312b8f391a/"
+    },
+    {
+      "shown": true,
+      "name": "Milanoo",
+      "domain": "milanoo.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ca265zafmk77b32f8c019f466608b0/"
+    },
+    {
+      "shown": true,
+      "name": "Sunsky-online",
+      "domain": "sunsky-online.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/7npkd4cs1i77b32f8c01869a299fda/"
+    },
+    {
+      "shown": true,
+      "name": "Boutiquefeel",
+      "domain": "boutiquefeel.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/68eif1557277b32f8c0138a0bfaa27/"
+    },
+    {
+      "shown": true,
+      "name": "Ivrose",
+      "domain": "ivrose.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/xs6rp4952v77b32f8c017623aa25b3/"
+    },
+    {
+      "shown": true,
+      "name": "Samsung",
+      "domain": "samsung.com",
+      "target": "/in/",
+      "shutaf": "https://ad.admitad.com/g/h7viuyh23977b32f8c01fcdd16745e/"
+    },
+    {
+      "shown": true,
+      "name": "Fairyseason",
+      "domain": "fairyseason.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/5me2747ge877b32f8c0175691508b5/"
+    },
+    {
+      "shown": true,
+      "name": "Blackview",
+      "domain": "store.blackview.hk",
+      "target": "/en",
+      "shutaf": "https://ad.admitad.com/g/e3s1raesi277b32f8c01b0f6ed77fa/"
+    },
+    {
+      "shown": true,
+      "name": "Secret",
+      "domain": "secretescapes.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/r7rv655gkz77b32f8c01481108e839/"
+    },
+    {
+      "shown": true,
+      "name": "Trainline",
+      "domain": "trainline.eu",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/m6mlwg3jy977b32f8c0189444c8234/"
+    },
+    {
+      "shown": true,
+      "name": "GeekBuying",
+      "domain": "geekbuying.pl",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/i2hgprg6z877b32f8c01c79c1e2430/"
+    },
+    {
+      "shown": true,
+      "name": "Alibaba",
+      "domain": "alibaba.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/pm1aev55cl77b32f8c01219aa26f6f/"
+    },
+    {
+      "shown": true,
+      "name": "TheManCompany",
+      "domain": "themancompany.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/86kie8f8t877b32f8c0185e739f524/"
+    },
+    {
+      "shown": true,
+      "name": "Otus",
+      "domain": "otus.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/kxgx8g2hp077b32f8c0172de1a383e/"
+    },
+    {
+      "shown": true,
+      "name": "OnePlus",
+      "domain": "oneplus.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/syrsd3cdxg77b32f8c01d91d1b8c1a/"
+    },
+    {
+      "shown": true,
+      "name": "Redwolf",
+      "domain": "redwolf.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/3nesxx8kxc77b32f8c015df4d07681/"
+    },
+    {
+      "shown": true,
+      "name": "Vodopad",
+      "domain": "vodopad.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/1ogaqp7x2y77b32f8c014523da320f/"
+    },
+    {
+      "shown": true,
+      "name": "ElcToys",
+      "domain": "elctoys.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/jhjrqipv3r77b32f8c01e2c5c0e898/"
+    },
+    {
+      "shown": true,
+      "name": "Molniya",
+      "domain": "molnija.shop",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/h8f6ydwll277b32f8c0126e097ca3d/"
+    },
+    {
+      "shown": true,
+      "name": "Crocs",
+      "domain": "shopcrocs.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/d2s1vaeuqv77b32f8c014df569a289/"
+    },
+    {
+      "shown": true,
+      "name": "Teana-labs",
+      "domain": "teana-labs.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/lxhqa4t7km77b32f8c0101c4a4728a/"
+    },
+    {
+      "shown": true,
+      "name": "Bellelily",
+      "domain": "bellelily.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/qxkd9i81ta77b32f8c010ab011a33f/"
+    },
+    {
+      "shown": true,
+      "name": "Boat",
+      "domain": "boat-lifestyle.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/7afdioyovs77b32f8c0162c85ad976/"
+    },
+    {
+      "shown": true,
+      "name": "Italojewerly",
+      "domain": "italojewelry.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/l926tcw2sm77b32f8c0187e51e1a66/"
+    },
+    {
+      "shown": true,
+      "name": "Gshopper",
+      "domain": "gshopper.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/nx2yncwth677b32f8c01d497214fca/"
+    },
+    {
+      "shown": true,
+      "name": "Man",
+      "domain": "manmatters.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/vffj1mxf7077b32f8c01560845920d/"
+    },
+    {
+      "shown": true,
+      "name": "Daily",
+      "domain": "dailyobjects.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/7ec7q14he177b32f8c01849a4b014a/"
+    },
+    {
+      "shown": true,
+      "name": "Goodex",
+      "domain": "goodex24.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/lxuchp81j977b32f8c016df33e3220/"
+    },
+    {
+      "shown": true,
+      "name": "Gardening",
+      "domain": "gardeningdirect.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/7nlu23n2tx77b32f8c01718c3ca839/"
+    },
+    {
+      "shown": true,
+      "name": "Acer",
+      "domain": "store.acer.com/en-in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/67hxm0ezhv77b32f8c01759e60847d/"
+    },
+    {
+      "shown": true,
+      "name": "DonttellMama",
+      "domain": "donttellmama-studio.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/rm7t14vftu77b32f8c01d9b8b2dce0/"
+    },
+    {
+      "shown": true,
+      "name": "Made-in-China",
+      "domain": "made-in-china.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/u9vcoo7wac77b32f8c01127b5642bc/"
+    },
+    {
+      "shown": true,
+      "name": "Geekmaxi",
+      "domain": "geekmaxi.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/6ivw6razwz77b32f8c019aa1c58e6a/"
+    },
+    {
+      "shown": true,
+      "name": "Techwearclub",
+      "domain": "techwearclub.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/erqpb168vn77b32f8c01561aeb8f90/"
+    },
+    {
+      "shown": true,
+      "name": "Wholesale21",
+      "domain": "wholesale21.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/8xo2cbxarj77b32f8c0148fcc95487/"
+    },
+    {
+      "shown": true,
+      "name": "Vevor",
+      "domain": "vevor.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/b9jm5dg8a877b32f8c01fcfaae913b/"
+    },
+    {
+      "shown": true,
+      "name": "Libas",
+      "domain": "libas.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ilucexaz4477b32f8c014a7ccbea8a/"
+    },
+    {
+      "shown": true,
+      "name": "Donnerdeal",
+      "domain": "donnerdeal.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/11pkisav6i77b32f8c0154f7a9dbf9/"
+    },
+    {
+      "shown": true,
+      "name": "almondshop",
+      "domain": "almondshop.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/r2jmyz0ecg77b32f8c01910f50214f/"
+    },
+    {
+      "shown": true,
+      "name": "Blushmark",
+      "domain": "blushmark.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/30wcjr7mv277b32f8c014c99e6617e/"
+    },
+    {
+      "shown": true,
+      "name": "Eastar-music",
+      "domain": "eastar-music.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/2soz0flx1177b32f8c01014674e937/"
+    },
+    {
+      "shown": true,
+      "name": "Bodylab24",
+      "domain": "bodylab24.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/q51r4zfcu577b32f8c01fad1369401/"
+    },
+    {
+      "shown": true,
+      "name": "Herrenausstatter",
+      "domain": "herrenausstatter.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/3psr60ydzb77b32f8c01a5d7dcb625/"
+    },
+    {
+      "shown": true,
+      "name": "Cotosen",
+      "domain": "cotosen.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/7ez2cndy8k77b32f8c01fe9cf762a5/"
+    },
+    {
+      "shown": true,
+      "name": "Cesdeals",
+      "domain": "cesdeals.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/enfyv9i7oe77b32f8c01cc4476038e/"
+    },
+    {
+      "shown": true,
+      "name": "Priceelf",
+      "domain": "priceelf.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/qxqywp9nit77b32f8c0184077c549c/"
+    },
+    {
+      "shown": true,
+      "name": "Dresslily",
+      "domain": "dresslily.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/dru1fiprm477b32f8c01c54bdbf551/"
+    },
+    {
+      "shown": true,
+      "name": "Wigsbuy",
+      "domain": "shop.wigsbuy.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/pj0bq4595y77b32f8c01cf54de75e1/"
+    },
+    {
+      "shown": true,
+      "name": "Kwork",
+      "domain": "kwork.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/hfrq9tjrsp77b32f8c01d7a732141a/"
+    },
+    {
+      "shown": true,
+      "name": "Peggybuy",
+      "domain": "peggybuy.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/pc9t9ez2zs77b32f8c01468cec14c0/"
+    },
+    {
+      "shown": true,
+      "name": "Whatwears",
+      "domain": "whatwears.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/qytcofg10277b32f8c013490fe04e5/"
+    },
+    {
+      "shown": true,
+      "name": "Cubot",
+      "domain": "shop.cubot.net",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/zk14cxa3ib77b32f8c01dfca45d921/"
+    },
+    {
+      "shown": true,
+      "name": "Logitech",
+      "domain": "logitechg.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/x1ug6d92gi77b32f8c01b3d717a068/"
+    },
+    {
+      "shown": true,
+      "name": "Armada",
+      "domain": "armadadeals.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/7u18k63v2j77b32f8c01789ffd144c/"
+    },
+    {
+      "shown": true,
+      "name": "Percko",
+      "domain": "percko.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/qlm975u4qs77b32f8c0138cfcc16a1/"
+    },
+    {
+      "shown": true,
+      "name": "Mego.travel",
+      "domain": "mego.travel",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/tzlyjlkxc077b32f8c01798932ec82/"
+    },
+    {
+      "shown": true,
+      "name": "ShytoBuy",
+      "domain": "shytobuy.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/1plzdpps9w77b32f8c012c5a78efd3/"
+    },
+    {
+      "shown": true,
+      "name": "WeightWorld",
+      "domain": "weightworld.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/xng3mk8spw77b32f8c015316ce387b/"
+    },
+    {
+      "shown": true,
+      "name": "Eshko",
+      "domain": "eshko.by",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/3tb7jaintg77b32f8c01d74de9def7/"
+    },
+    {
+      "shown": true,
+      "name": "Les",
+      "domain": "lesgirlslesboys.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/f1nvwrgwm077b32f8c01cf04824295/"
+    },
+    {
+      "shown": true,
+      "name": "Couverture",
+      "domain": "couvertureandthegarbstore.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/whxbpui0hd77b32f8c014bbda85f51/"
+    },
+    {
+      "shown": true,
+      "name": "SAA",
+      "domain": "saa.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/8cyiyog0d577b32f8c016548c000a8/"
+    },
+    {
+      "shown": true,
+      "name": "AirArabia.com",
+      "domain": "airarabia.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/dg4vlnzxsy77b32f8c0163a1c434ff/"
+    },
+    {
+      "shown": true,
+      "name": "WinXDVD",
+      "domain": "winxdvd.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/835ekfdexy77b32f8c01ef490919bc/"
+    },
+    {
+      "shown": true,
+      "name": "J.ing",
+      "domain": "jingus.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/hsfqckbh1077b32f8c01f7cd9aae96/"
+    },
+    {
+      "shown": true,
+      "name": "Voogueme",
+      "domain": "voogueme.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/mgsq5wj9fw77b32f8c0143cbdeb262/"
+    },
+    {
+      "shown": true,
+      "name": "Wayrates",
+      "domain": "wayrates.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/gfhc91n9bb77b32f8c011d81d40fc4/"
+    },
+    {
+      "shown": true,
+      "name": "MacXDVD",
+      "domain": "macxdvd.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/so2ywis9xs77b32f8c015c0cda76d6/"
+    },
+    {
+      "shown": true,
+      "name": "Nadula",
+      "domain": "nadula.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/oy5ftorbbz77b32f8c0145ffeb074b/"
+    },
+    {
+      "shown": true,
+      "name": "Povison",
+      "domain": "povison.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/es1r9pry3n77b32f8c010b836059a5/"
+    },
+    {
+      "shown": true,
+      "name": "Points",
+      "domain": "points.com",
+      "target": "/",
+      "shutaf": "https://united.elfm.net/c/2670192/302886/4704"
+    },
+    {
+      "shown": true,
+      "name": "Points",
+      "domain": "copaair.com/en/web/us/connectmiles/about-connectmiles",
+      "target": "/",
+      "shutaf": "https://copa.sjv.io/c/2670192/343960/5123"
+    },
+    {
+      "shown": true,
+      "name": "Travelstart",
+      "domain": "travelstart.co.za",
+      "target": "/",
+      "shutaf": "https://travelstart.zwjlk6.net/c/2670192/371149/5446"
+    },
+    {
+      "shown": true,
+      "name": "Udemy",
+      "domain": "udemy.com",
+      "target": "/",
+      "shutaf": "https://udemy-courses.pxf.io/c/2670192/368356/5420"
+    },
+    {
+      "shown": true,
+      "name": "Clean",
+      "domain": "clean.email",
+      "target": "/",
+      "shutaf": "https://cleanemailr.pxf.io/c/2670192/371308/5448"
+    },
+    {
+      "shown": true,
+      "name": "Namecheap",
+      "domain": "ssls.com",
+      "target": "/",
+      "shutaf": "https://ssls.sjv.io/c/2670192/559014/9312"
+    },
+    {
+      "shown": true,
+      "name": "Arbiship",
+      "domain": "arbiship.com",
+      "target": "/",
+      "shutaf": "https://arbishipebaydropshippingautomation.sjv.io/c/2670192/392638/5709"
+    },
+    {
+      "shown": true,
+      "name": "Nordvpn",
+      "domain": "nordvpn.com",
+      "target": "/",
+      "shutaf": "https://nordvpn.sjv.io/c/2670192/417838/7452"
+    },
+    {
+      "shown": true,
+      "name": "Revolut",
+      "domain": "revolut.com",
+      "target": "/",
+      "shutaf": "https://revolut.ngih.net/c/2670192/583783/9626"
+    },
+    {
+      "shown": true,
+      "name": "Lenovo",
+      "domain": "Lenovo.com",
+      "target": "/in/",
+      "shutaf": "https://lenovo-in.zlvv.net/c/2670192/584269/9634"
+    },
+    {
+      "shown": true,
+      "name": "Fareportal",
+      "domain": "onetravel.com",
+      "target": "/",
+      "shutaf": "https://onetravel.z4fp8q.net/c/2670192/650027/10299"
+    },
+    {
+      "shown": true,
+      "name": "Whistle",
+      "domain": "wisdompanel.com",
+      "target": "/en-us",
+      "shutaf": "https://wisdompanel.pxf.io/c/2670192/1135281/14370"
+    },
+    {
+      "shown": true,
+      "name": "Coppertino",
+      "domain": "vox.rocks",
+      "target": "/",
+      "shutaf": "https://vox.kffcyy.net/c/2670192/767582/11096"
+    },
+    {
+      "shown": true,
+      "name": "Amuse",
+      "domain": "amuse.com",
+      "target": "/",
+      "shutaf": "https://imp.i241730.net/c/2670192/787337/11308"
+    },
+    {
+      "shown": true,
+      "name": "MKBS",
+      "domain": "joelgrimes.com",
+      "target": "/",
+      "shutaf": "https://imp.i261477.net/c/2670192/807906/11446"
+    },
+    {
+      "shown": true,
+      "name": "Kaspersky",
+      "domain": "kaspersky.com",
+      "target": "/",
+      "shutaf": "https://kaspersky.sjv.io/c/2670192/830031/11660"
+    },
+    {
+      "shown": true,
+      "name": "Gemini",
+      "domain": "gemini.com",
+      "target": "/",
+      "shutaf": "https://gemini.sjv.io/c/2670192/845984/11829"
+    },
+    {
+      "shown": true,
+      "name": "Ford",
+      "domain": "fordandwyatt.com",
+      "target": "/",
+      "shutaf": "https://imp.i358993.net/c/2670192/848267/11860"
+    },
+    {
+      "shown": true,
+      "name": "Hostens",
+      "domain": "hostens.com",
+      "target": "/",
+      "shutaf": "https://hostens.pxf.io/c/2670192/875802/12190"
+    },
+    {
+      "shown": true,
+      "name": "Hostinger",
+      "domain": "hostinger.com",
+      "target": "/",
+      "shutaf": "https://hostinger.sjv.io/c/2670192/888231/12282"
+    },
+    {
+      "shown": true,
+      "name": "PatPat",
+      "domain": "patpat.com",
+      "target": "/",
+      "shutaf": "https://patpat.sjv.io/c/2670192/895636/12362"
+    },
+    {
+      "shown": true,
+      "name": "DA",
+      "domain": "oneplus.com",
+      "target": "/de",
+      "shutaf": "https://oneplus-de.pxf.io/c/2670192/1103244/14043"
+    },
+    {
+      "shown": true,
+      "name": "Anthology",
+      "domain": "purehempbotanicals.com",
+      "target": "/",
+      "shutaf": "https://pure-hemp-botanical.pxf.io/c/2670192/954928/12752"
+    },
+    {
+      "shown": true,
+      "name": "Anthology",
+      "domain": "strainz.com",
+      "target": "/about-strainz",
+      "shutaf": "https://strainz.sjv.io/c/2670192/954930/12753"
+    },
+    {
+      "shown": true,
+      "name": "Soul",
+      "domain": "soulpoles.com",
+      "target": "/",
+      "shutaf": "https://soulpoles.pxf.io/c/2670192/955951/12772"
+    },
+    {
+      "shown": true,
+      "name": "Hong",
+      "domain": "au.maxpeedingrods.com",
+      "target": "/",
+      "shutaf": "https://maxpeedingrods.sjv.io/c/2670192/976379/12904"
+    },
+    {
+      "shown": true,
+      "name": "Huan",
+      "domain": "gethuan.com",
+      "target": "/",
+      "shutaf": "https://huan.pxf.io/c/2670192/989374/13008"
+    },
+    {
+      "shown": true,
+      "name": "Elfsight",
+      "domain": "elfsight.com",
+      "target": "/",
+      "shutaf": "https://elfsight.io/c/2670192/1001355/13113"
+    },
+    {
+      "shown": true,
+      "name": "Nebula",
+      "domain": "us.seenebula.com",
+      "target": "/",
+      "shutaf": "https://nebula-us.pxf.io/c/2670192/999468/13098"
+    },
+    {
+      "shown": true,
+      "name": "Excire",
+      "domain": "excire.com",
+      "target": "/",
+      "shutaf": "https://excireinc.pxf.io/c/2670192/1006851/13184"
+    },
+    {
+      "shown": true,
+      "name": "Naturecan",
+      "domain": "naturecan.de",
+      "target": "/",
+      "shutaf": "https://naturecan-de.sjv.io/c/2670192/1009676/13215"
+    },
+    {
+      "shown": true,
+      "name": "EKSA",
+      "domain": "eksa.net",
+      "target": "/",
+      "shutaf": "https://eksagamingtech.pxf.io/c/2670192/1020479/13352"
+    },
+    {
+      "shown": true,
+      "name": "COVE",
+      "domain": "feelcove.com",
+      "target": "/",
+      "shutaf": "https://cove.pxf.io/c/2670192/1024488/13385"
+    },
+    {
+      "shown": true,
+      "name": "Skyscanner",
+      "domain": "skyscanner.net",
+      "target": "/",
+      "shutaf": "https://skyscanner.pxf.io/c/2670192/1027991/13416?associateid=AFF_TRA_19354_00001"
+    },
+    {
+      "shown": true,
+      "name": "Sans",
+      "domain": "sansdrinks.com.au",
+      "target": "/",
+      "shutaf": "https://sansdrinks.sjv.io/c/2670192/1031056/13440"
+    },
+    {
+      "shown": true,
+      "name": "Anantara",
+      "domain": "anantara.com",
+      "target": "/en",
+      "shutaf": "https://anantara-hotels-and-resorts.pxf.io/c/2670192/1041167/13536"
+    },
+    {
+      "shown": true,
+      "name": "Trustworthy",
+      "domain": "trustworthy.com",
+      "target": "/",
+      "shutaf": "https://trustworthy.sjv.io/c/2670192/1058784/13594"
+    },
+    {
+      "shown": true,
+      "name": "Cowinaudio",
+      "domain": "cowinaudio.com",
+      "target": "/",
+      "shutaf": "https://cowinaudio.pxf.io/c/2670192/1078083/13794"
+    },
+    {
+      "shown": true,
+      "name": "Millennium",
+      "domain": "millenniumhotels.com",
+      "target": "/",
+      "shutaf": "https://millenniumhotels.sjv.io/c/2670192/1095185/13956"
+    },
+    {
+      "shown": true,
+      "name": "Credit-Nerd",
+      "domain": "credit-nerd.com",
+      "target": "/",
+      "shutaf": "https://credit-nerd.pxf.io/c/2670192/1150515/14536"
+    },
+    {
+      "shown": true,
+      "name": "The",
+      "domain": "theflatwork.com",
+      "target": "/",
+      "shutaf": "https://theflatwork.sjv.io/c/2670192/1111866/14111"
+    },
+    {
+      "shown": true,
+      "name": "AIMI",
+      "domain": "aimiskin.com",
+      "target": "/",
+      "shutaf": "https://aimi.sjv.io/c/2670192/1118084/14169"
+    },
+    {
+      "shown": true,
+      "name": "Diamond",
+      "domain": "diamondmattress.com",
+      "target": "/",
+      "shutaf": "https://diamondmattress.pxf.io/c/2670192/1123357/14218"
+    },
+    {
+      "shown": true,
+      "name": "all33",
+      "domain": "all33.com",
+      "target": "/",
+      "shutaf": "https://all33.pxf.io/c/2670192/1133312/14349"
+    },
+    {
+      "shown": true,
+      "name": "Silk",
+      "domain": "silkmaison.com",
+      "target": "/",
+      "shutaf": "https://silkmaison.sjv.io/c/2670192/1136700/14385"
+    },
+    {
+      "shown": true,
+      "name": "Electronicx",
+      "domain": "electronicx.de",
+      "target": "/",
+      "shutaf": "https://electronicx.pxf.io/c/2670192/1146066/14483"
+    },
+    {
+      "shown": true,
+      "name": "LivWell",
+      "domain": "livwellnutrition.com",
+      "target": "/",
+      "shutaf": "https://livwellnutrition.pxf.io/c/2670192/1151622/14558"
+    },
+    {
+      "shown": true,
+      "name": "Fast",
+      "domain": "potatovpn.io",
+      "target": "/",
+      "shutaf": "https://potato-vpn.sjv.io/c/2670192/1155492/14610"
+    },
+    {
+      "shown": true,
+      "name": "Tilswall",
+      "domain": "tilswall.com.de",
+      "target": "/",
+      "shutaf": "https://tilswallcomde.pxf.io/c/2670192/1156280/14622"
+    },
+    {
+      "shown": true,
+      "name": "Tilswall",
+      "domain": "tilswall.co.uk",
+      "target": "/",
+      "shutaf": "https://tilswallcouk.sjv.io/c/2670192/1156282/14623"
+    },
+    {
+      "shown": true,
+      "name": "Tilswall",
+      "domain": "tilswall.fr",
+      "target": "/",
+      "shutaf": "https://tilswallfr.sjv.io/c/2670192/1156284/14624"
+    },
+    {
+      "shown": true,
+      "name": "Tilswall",
+      "domain": "tilswall.it",
+      "target": "/",
+      "shutaf": "https://tilswallit.pxf.io/c/2670192/1156286/14625"
+    },
+    {
+      "shown": true,
+      "name": "Tilswall",
+      "domain": "tilswall.es",
+      "target": "/",
+      "shutaf": "https://tilswalles.sjv.io/c/2670192/1156288/14626"
+    },
+    {
+      "shown": true,
+      "name": "Tilswall",
+      "domain": "tilswall.com",
+      "target": "/",
+      "shutaf": "https://tilswallcom.pxf.io/c/2670192/1156294/14629"
+    },
+    {
+      "shown": true,
+      "name": "CoinFlip",
+      "domain": "coinflip.tech",
+      "target": "/",
+      "shutaf": "https://coinflip.sjv.io/c/2670192/1159672/14673"
+    },
+    {
+      "shown": true,
+      "name": "Innovative",
+      "domain": "ie-cbd.com",
+      "target": "/",
+      "shutaf": "https://innovative-extracts.pxf.io/c/2670192/1171993/14789"
+    },
+    {
+      "shown": true,
+      "name": "Active",
+      "domain": "activereliefnaturals.com",
+      "target": "/",
+      "shutaf": "https://activereliefnaturals.pxf.io/c/2670192/1193573/14975"
+    },
+    {
+      "shown": true,
+      "name": "Book",
+      "domain": "booklikeaboss.com",
+      "target": "/",
+      "shutaf": "https://booklikeaboss.sjv.io/c/2670192/1196825/14985"
+    },
+    {
+      "shown": true,
+      "name": "120/Life",
+      "domain": "120life.com",
+      "target": "/",
+      "shutaf": "https://120life.sjv.io/c/2670192/1196987/14991"
+    },
+    {
+      "shown": true,
+      "name": "YouNow",
+      "domain": "younow.com",
+      "target": "/",
+      "shutaf": "https://younow.pxf.io/c/2670192/1203950/15019"
+    },
+    {
+      "shown": true,
+      "name": "Gravastar",
+      "domain": "gravastar.com",
+      "target": "/",
+      "shutaf": "https://gravastar.sjv.io/c/2670192/1213885/15080"
+    },
+    {
+      "shown": true,
+      "name": "OptimizeX,",
+      "domain": "celtic-knot.com",
+      "target": "/",
+      "shutaf": "https://celticknotjewelry.sjv.io/c/2670192/1219948/15104"
+    },
+    {
+      "shown": true,
+      "name": "UPERFECT",
+      "domain": "uperfectmonitor.com",
+      "target": "/",
+      "shutaf": "https://uperfect.sjv.io/c/2670192/1226533/15155"
+    },
+    {
+      "shown": true,
+      "name": "COSBEAUTY",
+      "domain": "jp.cos-beauty.com",
+      "target": "/",
+      "shutaf": "https://cosbeauty.sjv.io/c/2670192/1230974/15189"
+    },
+    {
+      "shown": true,
+      "name": "heysexy",
+      "domain": "heysexy.co",
+      "target": "/",
+      "shutaf": "https://heysexy.pxf.io/c/2670192/1243503/15318"
+    },
+    {
+      "shown": true,
+      "name": "Linguix",
+      "domain": "linguix.com",
+      "target": "/",
+      "shutaf": "https://linguix.sjv.io/c/2670192/1256592/15461"
+    },
+    {
+      "shown": true,
+      "name": "X-Sense",
+      "domain": "x-sense.com",
+      "target": "/",
+      "shutaf": "https://xsense.sjv.io/c/2670192/1266126/15572"
+    },
+    {
+      "shown": true,
+      "name": "Skyeng",
+      "domain": "skyeng.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/tqcmqmjujo77b32f8c0186cd98cf0a/"
+    },
+    {
+      "shown": true,
+      "name": "Zaful",
+      "domain": "zaful.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/5fdvtbwdde77b32f8c01e1c974a806/"
+    },
+    {
+      "shown": true,
+      "name": "Lovelywholesale",
+      "domain": "lovelywholesale.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/joe044ya4777b32f8c01f9772858b8/"
+    },
+    {
+      "shown": true,
+      "name": "Asics",
+      "domain": "asics.com",
+      "target": "/in/en-in",
+      "shutaf": "https://ad.admitad.com/g/53w8y0ghxc77b32f8c0194327cb7ce/"
+    },
+    {
+      "shown": true,
+      "name": "Adminvps",
+      "domain": "adminvps.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/3s9n4xo7za77b32f8c01f771e68994/"
+    },
+    {
+      "shown": true,
+      "name": "ivi.ru",
+      "domain": "ivi.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/joy9jrapz477b32f8c0193e749a11b/"
+    },
+    {
+      "shown": true,
+      "name": "Perfumes",
+      "domain": "perfumesclub.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ivf0kwdldw77b32f8c014d76f87aed/"
+    },
+    {
+      "shown": true,
+      "name": "FFins",
+      "domain": "ffins.kz",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/sc3ia4jncy77b32f8c011bbbfbce9a/"
+    },
+    {
+      "shown": true,
+      "name": "Youtravel.me",
+      "domain": "youtravel.me",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/6gk4ba6fs677b32f8c01cc54f31e64/"
+    },
+    {
+      "shown": true,
+      "name": "Ucando",
+      "domain": "ucando.pl",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ecsex5hzzz77b32f8c01c6f71fead4/"
+    },
+    {
+      "shown": true,
+      "name": "TengeDa",
+      "domain": "tengeda.kz",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/yc2qk2mfj577b32f8c01441701efe0/"
+    },
+    {
+      "shown": true,
+      "name": "Oh",
+      "domain": "osago.oh.ua",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/yp1ftywdjy77b32f8c01b8f7b69555/"
+    },
+    {
+      "shown": true,
+      "name": "Satty",
+      "domain": "play.szhuldyz.kz",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/qge4dvz7re77b32f8c01efb027289a/"
+    },
+    {
+      "shown": true,
+      "name": "Hunkemoller",
+      "domain": "hunkemoller.es",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/e05vcgv2sx77b32f8c011b0083e74a/"
+    },
+    {
+      "shown": true,
+      "name": "EKTA",
+      "domain": "travel.ic-ekta.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/vv0sleumno77b32f8c01861831ace6/"
+    },
+    {
+      "shown": true,
+      "name": "Forenzi",
+      "domain": "forenzi.kz",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ew6t7z3g4h77b32f8c01d67042b737/"
+    },
+    {
+      "shown": true,
+      "name": "Trip.com",
+      "domain": "trip.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/yio6i5e56t77b32f8c01f37e25e0cc/"
+    },
+    {
+      "shown": true,
+      "name": "Fordeal",
+      "domain": "fordeal.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/gmojcvoola77b32f8c01b056ff0570/"
+    },
+    {
+      "shown": true,
+      "name": "ZTE",
+      "domain": "global.ztedevices.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/lh3bbik9ly77b32f8c01e62ca5e32f/"
+    },
+    {
+      "shown": true,
+      "name": "СК",
+      "domain": "ic-misto.com.ua",
+      "target": "/ru",
+      "shutaf": "https://ad.admitad.com/g/vxzs3hxgp777b32f8c0136d66ee6de/"
+    },
+    {
+      "shown": true,
+      "name": "Primebot",
+      "domain": "primelife.company",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/g90zhlrrle77b32f8c0174dc769641/"
+    },
+    {
+      "shown": true,
+      "name": "Lentiamo",
+      "domain": "lentiamo.it",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/thhykjsztl77b32f8c01ff5473da3e/"
+    },
+    {
+      "shown": true,
+      "name": "Atlas",
+      "domain": "atlasvpn.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/3pq25dkwhd77b32f8c01bf50952f56/"
+    },
+    {
+      "shown": true,
+      "name": "Ffin",
+      "domain": "ffin.life",
+      "target": "/individuals/freedom-corona",
+      "shutaf": "https://ad.admitad.com/g/z668utn8eu77b32f8c0196643fc92b/"
+    },
+    {
+      "shown": true,
+      "name": "MusclePower",
+      "domain": "musclepower.pl",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/h5jou2f11w77b32f8c012516a029fd/"
+    },
+    {
+      "shown": true,
+      "name": "caviar-phone.ru",
+      "domain": "caviar-phone.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/uoxzvowsrn77b32f8c0121147b72a1/"
+    },
+    {
+      "shown": true,
+      "name": "Империя",
+      "domain": "imperiacvetov.kz",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/p7dhddxuxz77b32f8c010f46dedd27/"
+    },
+    {
+      "shown": true,
+      "name": "Naploungewear",
+      "domain": "naploungewear.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/pck77gphb277b32f8c0161ba2cfa59/"
+    },
+    {
+      "shown": true,
+      "name": "Lattelierstore",
+      "domain": "lattelierstore.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/4aamzaxlar77b32f8c012b88360278/"
+    },
+    {
+      "shown": true,
+      "name": "Rotopino",
+      "domain": "rotopino.fr",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/4pjp5ue2r777b32f8c018d64fa9eb3/"
+    },
+    {
+      "shown": true,
+      "name": "Focus",
+      "domain": "focuscamera.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/1xlv4ekqb277b32f8c01f77e1209e5/"
+    },
+    {
+      "shown": true,
+      "name": "Naturadika",
+      "domain": "naturadika.es",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/e32ucqq74r77b32f8c0173da03540f/"
+    },
+    {
+      "shown": true,
+      "name": "Goboo",
+      "domain": "goboo.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/mtn91r8lf877b32f8c012ded10e98f/"
+    },
+    {
+      "shown": true,
+      "name": "InterSport",
+      "domain": "intersport.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/e6c89ruehn77b32f8c013c2723857f/"
+    },
+    {
+      "shown": true,
+      "name": "Coach",
+      "domain": "fr.coach.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/uwwn8or39c77b32f8c0143292aa8c4/"
+    },
+    {
+      "shown": true,
+      "name": "DubaiStore",
+      "domain": "dubaistore.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/hvwnmgq26h77b32f8c0174025c6e6e/"
+    },
+    {
+      "shown": true,
+      "name": "zaochnik",
+      "domain": "zaochnik.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/sk55otxguo77b32f8c016853a97b34/"
+    },
+    {
+      "shown": true,
+      "name": "Modivo",
+      "domain": "modivo.it",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/kg2vfbjdrb77b32f8c01ec54c12982/"
+    },
+    {
+      "shown": true,
+      "name": "Best",
+      "domain": "bestwestern.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/hg7qab5oy777b32f8c01574390a880/"
+    },
+    {
+      "shown": true,
+      "name": "EasyToys",
+      "domain": "easytoys.pl",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/40yjszighj77b32f8c0174174271ec/"
+    },
+    {
+      "shown": true,
+      "name": "Europcar",
+      "domain": "europcar.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/p32amxnrp177b32f8c01de548276e5/"
+    },
+    {
+      "shown": true,
+      "name": "Corona",
+      "domain": "coronatestcentre.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/v9fwdbk7ux77b32f8c0138a75f4b6e/"
+    },
+    {
+      "shown": true,
+      "name": "Peter",
+      "domain": "peterhahn.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/5a6fht0cd477b32f8c01b936575bf4/"
+    },
+    {
+      "shown": true,
+      "name": "London",
+      "domain": "londonmintoffice.org",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/h0dac23id677b32f8c016b9c20687f/"
+    },
+    {
+      "shown": true,
+      "name": "HP",
+      "domain": "hp.com",
+      "target": "/us-en/shop",
+      "shutaf": "https://ad.admitad.com/g/v77xukba8k77b32f8c01fcd0994a44/"
+    },
+    {
+      "shown": true,
+      "name": "Marypaz",
+      "domain": "marypaz.com",
+      "target": "/es_es",
+      "shutaf": "https://ad.admitad.com/g/my28k23npe77b32f8c0188296c765a/"
+    },
+    {
+      "shown": true,
+      "name": "Bellavita",
+      "domain": "new.bellavitaorganic.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/6f7vw7lwhu77b32f8c01bffe557575/"
+    },
+    {
+      "shown": true,
+      "name": "Cosdlazdrowia",
+      "domain": "cosdlazdrowia.pl",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/utjlvrs4li77b32f8c0140d038b978/"
+    },
+    {
+      "shown": true,
+      "name": "Spytech",
+      "domain": "sentrypc.com",
+      "target": "/",
+      "shutaf": "https://sentrypc.7eer.net/c/2670192/200311/3022"
+    },
+    {
+      "shown": true,
+      "name": "1More",
+      "domain": "usa.1more.com",
+      "target": "/",
+      "shutaf": "https://onemore.pxf.io/c/2670192/306643/4751"
+    },
+    {
+      "shown": true,
+      "name": "Ingenio",
+      "domain": "keen.com",
+      "target": "/",
+      "shutaf": "https://keen.pxf.io/c/2670192/438419/7786"
+    },
+    {
+      "shown": true,
+      "name": "Sharp",
+      "domain": "shop.sharpusa.com",
+      "target": "/",
+      "shutaf": "https://sharp.iyhh.net/c/2670192/603174/9885"
+    },
+    {
+      "shown": true,
+      "name": "Yelp",
+      "domain": "restaurants.yelp.com",
+      "target": "/",
+      "shutaf": "https://yelp-for-restaurants.pxf.io/c/2670192/1180640/14853"
+    },
+    {
+      "shown": true,
+      "name": "Plunge",
+      "domain": "thecoldplunge.com",
+      "target": "/",
+      "shutaf": "https://plunge.pxf.io/c/2670192/1068315/13696"
+    },
+    {
+      "shown": true,
+      "name": "Uplyft",
+      "domain": "uplyftcapital.com",
+      "target": "/",
+      "shutaf": "https://uplyftcapital.sjv.io/c/2670192/1179989/14852"
+    },
+    {
+      "shown": true,
+      "name": "Myrentacar",
+      "domain": "myrentacar.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/66o8jzb2p977b32f8c014f47f3b6f3/"
+    },
+    {
+      "shown": true,
+      "name": "Clovia",
+      "domain": "clovia.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/scfupgazc577b32f8c012ad3f2c5ae/"
+    },
+    {
+      "shown": true,
+      "name": "Победа",
+      "domain": "store.pobedavkusa.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/0jkbk1n3ln77b32f8c01faf784f7eb/"
+    },
+    {
+      "shown": true,
+      "name": "Fanatical",
+      "domain": "fanatical.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/xqk0au7xyi77b32f8c0133b5f16c85/"
+    },
+    {
+      "shown": true,
+      "name": "Domino's",
+      "domain": "pizzaonline.dominos.co.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/a0nj9bukvf77b32f8c01414c0f7cc5/"
+    },
+    {
+      "shown": true,
+      "name": "Loreto",
+      "domain": "loretogallo.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/xevwot0fit77b32f8c019d79b6979c/"
+    },
+    {
+      "shown": true,
+      "name": "Knowfashionstyle",
+      "domain": "knowfashionstyle.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/42gyx9a5b877b32f8c01b69546a09a/"
+    },
+    {
+      "shown": true,
+      "name": "Himalaya",
+      "domain": "himalayawellness.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/qniwevahx877b32f8c018aaaedc321/"
+    },
+    {
+      "shown": true,
+      "name": "Ustraa",
+      "domain": "ustraa.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/o1v6l6s4ah77b32f8c013633d0fb78/"
+    },
+    {
+      "shown": true,
+      "name": "Brandshop.ru",
+      "domain": "brandshop.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/lnxxec9g8077b32f8c01cb20232db8/"
+    },
+    {
+      "shown": true,
+      "name": "Loftschool",
+      "domain": "loftschool.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/oatkfnedvb77b32f8c014f9a9b169b/"
+    },
+    {
+      "shown": true,
+      "name": "Portronics",
+      "domain": "portronics.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/t1a566v8hp77b32f8c01e21f1ab63a/"
+    },
+    {
+      "shown": true,
+      "name": "TurboVPN",
+      "domain": "turbovpn.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/exe221unkp77b32f8c01ddf84d4c0b/"
+    },
+    {
+      "shown": true,
+      "name": "Mensxp",
+      "domain": "mensxp.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/6apwnithuy77b32f8c012c5c6a09a5/"
+    },
+    {
+      "shown": true,
+      "name": "LFG",
+      "domain": "lfgboost.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/c0xe87kpl777b32f8c01bdc908b24f/"
+    },
+    {
+      "shown": true,
+      "name": "Better",
+      "domain": "betterlifeuae.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/81lktimb0k77b32f8c01757d7f531a/"
+    },
+    {
+      "shown": true,
+      "name": "Organic",
+      "domain": "organicindia.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/zl7g4qhoxe77b32f8c0164e165a415/"
+    },
+    {
+      "shown": true,
+      "name": "Sephora",
+      "domain": "sephora.pl",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/hkxsi5c4mp77b32f8c012617f08a56/"
+    },
+    {
+      "shown": true,
+      "name": "Claw.Games",
+      "domain": "claw.games",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/dn20ufozem77b32f8c0178a537060a/"
+    },
+    {
+      "shown": true,
+      "name": "Away",
+      "domain": "awayresorts.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/sifwthtui477b32f8c01a691f33d92/"
+    },
+    {
+      "shown": true,
+      "name": "Ulanka",
+      "domain": "ulanka.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/3mmv73g9rn77b32f8c0123d3c736e6/"
+    },
+    {
+      "shown": true,
+      "name": "Foot",
+      "domain": "footlocker.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/k9hvgontvf77b32f8c01f11f09b92a/"
+    },
+    {
+      "shown": true,
+      "name": "Coggles",
+      "domain": "coggles.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/h1n5bwvtok77b32f8c01506f1d3285/"
+    },
+    {
+      "shown": true,
+      "name": "Rituals",
+      "domain": "en-ae.rituals.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/1ihkpa1nt277b32f8c01c18d6a3a2f/"
+    },
+    {
+      "shown": true,
+      "name": "Lavender",
+      "domain": "lavender.sa.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/vxfioozsik77b32f8c0146261b55ff/"
+    },
+    {
+      "shown": true,
+      "name": "HostGator",
+      "domain": "hostgator.in",
+      "target": "/",
+      "shutaf": "https://hostgator-india.sjv.io/c/2670192/401174/7275"
+    },
+    {
+      "shown": true,
+      "name": "Remitly",
+      "domain": "remitly.com",
+      "target": "/",
+      "shutaf": "https://remitly.tod8mp.net/c/2670192/663350/10408"
+    },
+    {
+      "shown": true,
+      "name": "Taxfix",
+      "domain": "taxfix.de",
+      "target": "/",
+      "shutaf": "https://imp.i313392.net/c/2670192/831953/11681"
+    },
+    {
+      "shown": true,
+      "name": "GrowTal",
+      "domain": "growtal.com",
+      "target": "/",
+      "shutaf": "https://growtal.sjv.io/c/2670192/981894/12940"
+    },
+    {
+      "shown": true,
+      "name": "PlanetArt",
+      "domain": "simplytoimpress.com",
+      "target": "/",
+      "shutaf": "https://simplytoimpress.sjv.io/c/2670192/1242755/15295"
+    },
+    {
+      "shown": true,
+      "name": "Economybookings",
+      "domain": "economybookings.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/gtmfscgipy77b32f8c011985193de8/"
+    },
+    {
+      "shown": true,
+      "name": "Redmagic",
+      "domain": "global.redmagic.gg",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/qmttmvxh1u77b32f8c0156637026d8/"
+    },
+    {
+      "shown": true,
+      "name": "Neoline",
+      "domain": "neoline.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/4p0b4x7e4j77b32f8c0173b051138c/"
+    },
+    {
+      "shown": true,
+      "name": "GamersBase",
+      "domain": "play.google.com/store/apps/details?id=pro.enaza.gamersbase",
+      "target": "/",
+      "shutaf": "http://ad.admitad.com/g/ikewuruio477b32f8c01e7e2dba014/"
+    },
+    {
+      "shown": true,
+      "name": "Metro",
+      "domain": "metrobrazil.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/qlyyds59e077b32f8c01278029db65/"
+    },
+    {
+      "shown": true,
+      "name": "Tu.com",
+      "domain": "tu.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/zg5lfylkzb77b32f8c01b8a6a41123/"
+    },
+    {
+      "shown": true,
+      "name": "Kenzo",
+      "domain": "kenzo.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/6zf3ezjvcq77b32f8c01e85eaee00d/"
+    },
+    {
+      "shown": true,
+      "name": "Defacto",
+      "domain": "ma.defactofashion.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/nwsf1uexwo77b32f8c0101e14288aa/"
+    },
+    {
+      "shown": true,
+      "name": "Ovy",
+      "domain": "ovyapp.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/mmgeasthxj77b32f8c014943e8ce3d/"
+    },
+    {
+      "shown": true,
+      "name": "Kdan",
+      "domain": "kdanmobile.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/5kjvrf6rn277b32f8c01fc6ab23eea/"
+    },
+    {
+      "shown": true,
+      "name": "Soulfull",
+      "domain": "soulfull.co.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/w2wfkhp1zc77b32f8c01e3ae6fd77f/"
+    },
+    {
+      "shown": true,
+      "name": "Shopee",
+      "domain": "shopee.co.id",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/26pyj9x96577b32f8c01727d24ad0b/"
+    },
+    {
+      "shown": true,
+      "name": "G-Star",
+      "domain": "g-star.com/en",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/vdi4nbdn0t77b32f8c0115fcaa1c5f/"
+    },
+    {
+      "shown": true,
+      "name": "Om.leela-game",
+      "domain": "om.leela-game.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/zx0v3716z377b32f8c01f3ac8d38ac/"
+    },
+    {
+      "shown": true,
+      "name": "Names",
+      "domain": "names.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/mjrmlp1k2y77b32f8c01b575f7dffd/"
+    },
+    {
+      "shown": true,
+      "name": "The",
+      "domain": "thebodyshop.pl",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/wx68jyelf777b32f8c01682faf8f74/"
+    },
+    {
+      "shown": true,
+      "name": "JD",
+      "domain": "jdsports.es",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/o2ce9jn5qh77b32f8c013fa4ba3099/"
+    },
+    {
+      "shown": true,
+      "name": "ebikes4you",
+      "domain": "e-bikes4you.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/r0jw8vaxql77b32f8c015e3bed9815/"
+    },
+    {
+      "shown": true,
+      "name": "GData",
+      "domain": "gdata.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ii1rswugry77b32f8c01053ca066ef/"
+    },
+    {
+      "shown": true,
+      "name": "Bitiba",
+      "domain": "bitiba.es",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/rrzswrck1c77b32f8c01d7d21bf13d/"
+    },
+    {
+      "shown": true,
+      "name": "Aktivshop",
+      "domain": "aktivshop.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/fo6m3gnf4e77b32f8c012d9aa1731e/"
+    },
+    {
+      "shown": true,
+      "name": "Pikolin",
+      "domain": "pikolin.com/es",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/dtyqpyvcvn77b32f8c01c5165e3191/"
+    },
+    {
+      "shown": true,
+      "name": "Giordano",
+      "domain": "giordanoshop.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/9qs7pcf4cn77b32f8c01cb35af6439/"
+    },
+    {
+      "shown": true,
+      "name": "Beerwulf",
+      "domain": "beerwulf.com/it-it",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ywpe5ns46b77b32f8c016c2a9c58a5/"
+    },
+    {
+      "shown": true,
+      "name": "Grandado",
+      "domain": "gbr.grandado.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/t5v9iooh1s77b32f8c013b71a3491d/"
+    },
+    {
+      "shown": true,
+      "name": "Safestore",
+      "domain": "safestore.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/p3w759j88077b32f8c01c6fe56f7ce/"
+    },
+    {
+      "shown": true,
+      "name": "Zooplus",
+      "domain": "zooplus.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/xznij2hly477b32f8c01c8dbc4cdec/"
+    },
+    {
+      "shown": true,
+      "name": "Hello",
+      "domain": "hellomolly.com/us",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ogqnax9suk77b32f8c01aa99b1c5bc/"
+    },
+    {
+      "shown": true,
+      "name": "Shopee",
+      "domain": "shopee.co.th",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/it3s0c8sva77b32f8c01cb23d1a4f9/"
+    },
+    {
+      "shown": true,
+      "name": "Mydays",
+      "domain": "mydays.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/96rk9q5mn477b32f8c01e43ad432c0/"
+    },
+    {
+      "shown": true,
+      "name": "One",
+      "domain": "onepoundsweets.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/0a37fl6yok77b32f8c01e71c4dc1fd/"
+    },
+    {
+      "shown": true,
+      "name": "UNest",
+      "domain": "unest.co",
+      "target": "/",
+      "shutaf": "https://unestcollegesavingsplan.dqxc7i.net/c/2670192/683841/10564"
+    },
+    {
+      "shown": true,
+      "name": "Red Pocket",
+      "domain": "redpocket.com",
+      "target": "/",
+      "shutaf": "https://www.redpocket.com/?rfsn=6458259.dc47e0"
+    },
+    {
+      "shown": true,
+      "name": "Beardo",
+      "domain": "beardo.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/xux46cchw777b32f8c01f3cb4f5322/"
+    },
+    {
+      "shown": true,
+      "name": "Vuso",
+      "domain": "vuso.ua",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ebolo9519x77b32f8c010f4b66b7fa/"
+    },
+    {
+      "shown": true,
+      "name": "Candere",
+      "domain": "candere.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/yga1lj0xsj77b32f8c01fd56d3e4eb/"
+    },
+    {
+      "shown": true,
+      "name": "Hotline.Finance",
+      "domain": "hotline.finance/ua",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/944q1ip6aq77b32f8c01f3cd071992/"
+    },
+    {
+      "shown": true,
+      "name": "Gama-Gama",
+      "domain": "gama-gama.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/mtnww38vby77b32f8c01c3208034c3/"
+    },
+    {
+      "shown": true,
+      "name": "Secret",
+      "domain": "secretescapes.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/awil6dg10v77b32f8c01218b36733f/"
+    },
+    {
+      "shown": true,
+      "name": "LifePharmacy",
+      "domain": "lifepharmacy.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/csv7pspfgc77b32f8c013605cc18d9/"
+    },
+    {
+      "shown": true,
+      "name": "CJdropshipping",
+      "domain": "cjdropshipping.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/5xdftnmgo377b32f8c013dd0e8ca2a/"
+    },
+    {
+      "shown": true,
+      "name": "Tila",
+      "domain": "tila.com/en",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/1h6ofgaqj877b32f8c016bd67d054c/"
+    },
+    {
+      "shown": true,
+      "name": "Justherbs",
+      "domain": "justherbs.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/x8eok28k6h77b32f8c0107372b7f77/"
+    },
+    {
+      "shown": true,
+      "name": "Difmark",
+      "domain": "difmark.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/7a6i9524ma77b32f8c013c1a428f97/"
+    },
+    {
+      "shown": true,
+      "name": "Meetic",
+      "domain": "meetic.es",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/r627de84bg77b32f8c011954d18422/"
+    },
+    {
+      "shown": true,
+      "name": "Thalia",
+      "domain": "thalia.at/shop/home/show",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/7clp64zewq77b32f8c019ab4601823/"
+    },
+    {
+      "shown": true,
+      "name": "CCC",
+      "domain": "ccc.eu/pl",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/55pwvznwxg77b32f8c0151d6b6411b/"
+    },
+    {
+      "shown": true,
+      "name": "Julian",
+      "domain": "juliancharles.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/chsu4b3lk877b32f8c01c58c990118/"
+    },
+    {
+      "shown": true,
+      "name": "VidaXL",
+      "domain": "vidaxl.nl",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/w1yp8dv6lr77b32f8c01f84848b44c/"
+    },
+    {
+      "shown": true,
+      "name": "Hughes",
+      "domain": "hughes.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/c3tyj7aw8377b32f8c01b89cf7e17c/"
+    },
+    {
+      "shown": true,
+      "name": "ITS",
+      "domain": "its.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/3jmcd6wagl77b32f8c01b643bba4eb/"
+    },
+    {
+      "shown": true,
+      "name": "Casando",
+      "domain": "casando.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/cj7uvc7huz77b32f8c0190e97cee78/"
+    },
+    {
+      "shown": true,
+      "name": "Autoparti",
+      "domain": "autoparti.it",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/vz197bo59s77b32f8c01ccb6d94f4a/"
+    },
+    {
+      "shown": true,
+      "name": "Photobox",
+      "domain": "photobox.fr",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/yzssloko3p77b32f8c0195f97c3378/"
+    },
+    {
+      "shown": true,
+      "name": "Marionnaud",
+      "domain": "marionnaud.fr",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/bxsqjou6yx77b32f8c0171320cf924/"
+    },
+    {
+      "shown": true,
+      "name": "Hugendubel",
+      "domain": "hugendubel.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/2v3y8qo72y77b32f8c01d1fd74eb72/"
+    },
+    {
+      "shown": true,
+      "name": "Ottonova",
+      "domain": "ottonova.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/prjpqpd9os77b32f8c010c1e500326/"
+    },
+    {
+      "shown": true,
+      "name": "Musterhaus",
+      "domain": "musterhaus.net/hausbaukataloge-neu",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/sw82adwzp977b32f8c018a2ef5ae7f/"
+    },
+    {
+      "shown": true,
+      "name": "Lexoffice",
+      "domain": "lexoffice.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/w3sd31p5ny77b32f8c018a8848884d/"
+    },
+    {
+      "shown": true,
+      "name": "Wordery",
+      "domain": "wordery.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/di2fa93r4i77b32f8c016b36e26f25/"
+    },
+    {
+      "shown": true,
+      "name": "First",
+      "domain": "tpexpress.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/xyone4jy8j77b32f8c01782762ebe3/"
+    },
+    {
+      "shown": true,
+      "name": "YouGarden",
+      "domain": "yougarden.com/?source=AFFWIN",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/1ke7bf3o8277b32f8c01e88cd6a28a/"
+    },
+    {
+      "shown": true,
+      "name": "Under",
+      "domain": "underarmour.co.uk/en-gb/?",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/9eu7p3hxyd77b32f8c011bba08726f/"
+    },
+    {
+      "shown": true,
+      "name": "Emma",
+      "domain": "emma-sleep.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/vbvlyq6zg377b32f8c0197e769a7a5/"
+    },
+    {
+      "shown": true,
+      "name": "Mattress",
+      "domain": "mattressonline.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/eaublrk7wi77b32f8c01d1fa4410b9/"
+    },
+    {
+      "shown": true,
+      "name": "Menkind",
+      "domain": "menkind.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/7qzl4fprfy77b32f8c018db5924ea7/"
+    },
+    {
+      "shown": true,
+      "name": "BestFewo",
+      "domain": "bestfewo.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/zdlak68b0977b32f8c01481b99e02e/"
+    },
+    {
+      "shown": true,
+      "name": "House",
+      "domain": "houseofwatches.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/n1op7knq1m77b32f8c011daf8fad90/"
+    },
+    {
+      "shown": true,
+      "name": "Hamilton",
+      "domain": "hamiltonbeach.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/owdcabqo7k77b32f8c01d65a6238d4/"
+    },
+    {
+      "shown": true,
+      "name": "PeopleFinders",
+      "domain": "peoplefinders.com/reverse-phone",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/q3fktv82ve77b32f8c01992fda54fd/"
+    },
+    {
+      "shown": true,
+      "name": "Ultimate",
+      "domain": "ultimatepetnutrition.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/3e1so2wfe777b32f8c01000e605dee/"
+    },
+    {
+      "shown": true,
+      "name": "Redro",
+      "domain": "redro.pl",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ow63k76vsw77b32f8c01062ec65c08/"
+    },
+    {
+      "shown": true,
+      "name": "Bitiba",
+      "domain": "bitiba.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/n1ql2fhik477b32f8c01bc8c4e93ad/"
+    },
+    {
+      "shown": true,
+      "name": "The",
+      "domain": "thegreatcourses.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/7c0parqe9z77b32f8c01b4290f4c65/"
+    },
+    {
+      "shown": true,
+      "name": "SexyAvenue",
+      "domain": "sexyavenue.com/fr",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/g8xte5z9qz77b32f8c0189d41116c2/"
+    },
+    {
+      "shown": true,
+      "name": "Сhili-shop24",
+      "domain": "chili-shop24.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/8iorzgihgo77b32f8c019b48eb83d1/"
+    },
+    {
+      "shown": true,
+      "name": "Beverly",
+      "domain": "beverlyhillsmd.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/pmqci9qly877b32f8c0125ea281af3/"
+    },
+    {
+      "shown": true,
+      "name": "Web.com",
+      "domain": "web.com",
+      "target": "/",
+      "shutaf": "https://web.yoxl.net/c/2670192/58786/1642"
+    },
+    {
+      "shown": true,
+      "name": "NortonLifeLock",
+      "domain": "norton.com",
+      "target": "/",
+      "shutaf": "https://norton.ow5a.net/c/2670192/275243/4405"
+    },
+    {
+      "shown": true,
+      "name": "1byone",
+      "domain": "1byoneaudio.com",
+      "target": "/",
+      "shutaf": "https://1byoneaudio.sjv.io/c/2670192/1136764/14389"
+    },
+    {
+      "shown": true,
+      "name": "Blood",
+      "domain": "bs.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/b4befcdcb677b32f8c01baff29a610/"
+    },
+    {
+      "shown": true,
+      "name": "Domicad",
+      "domain": "domicad.com.ua/ua",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ydvo83oix377b32f8c01d18be9f4cd/"
+    },
+    {
+      "shown": true,
+      "name": "Fernsnpetals",
+      "domain": "fnp.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ttefnvo3nu77b32f8c019889a1a15e/"
+    },
+    {
+      "shown": true,
+      "name": "Bigrock",
+      "domain": "bigrock.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/5354v1olnh77b32f8c012fcb64894f/"
+    },
+    {
+      "shown": true,
+      "name": "Durex",
+      "domain": "durexindia.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/9f0wolo4fl77b32f8c01bd6a9af57a/"
+    },
+    {
+      "shown": true,
+      "name": "Groupon",
+      "domain": "groupon.ae",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/fwii15z9a877b32f8c01f1a85c3aee/"
+    },
+    {
+      "shown": true,
+      "name": "Sportmarket",
+      "domain": "sportmarket.su",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/o4eviu9s7677b32f8c011e7135021f/"
+    },
+    {
+      "shown": true,
+      "name": "MAGZTER",
+      "domain": "magzter.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/5zawtsm1qm77b32f8c01368a3d0c7b/"
+    },
+    {
+      "shown": true,
+      "name": "Top",
+      "domain": "toprankers.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/9hkqqfkjnr77b32f8c0162f5a57535/"
+    },
+    {
+      "shown": true,
+      "name": "Tails",
+      "domain": "tails.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/9eqg55r7yp77b32f8c01ce8ffb1fef/"
+    },
+    {
+      "shown": true,
+      "name": "Cloudways",
+      "domain": "cloudways.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/veijema2me77b32f8c01a1c426e0e9/"
+    },
+    {
+      "shown": true,
+      "name": "The",
+      "domain": "thedermaco.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ocery9v7tw77b32f8c016c6debdaa1/"
+    },
+    {
+      "shown": true,
+      "name": "China",
+      "domain": "chinaplay.store",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/2rvysi1x4b77b32f8c01f86b79a882/"
+    },
+    {
+      "shown": true,
+      "name": "Belvilla",
+      "domain": "belvilla.fr",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ya82glriwr77b32f8c01228e86ced4/"
+    },
+    {
+      "shown": true,
+      "name": "DanCenter",
+      "domain": "dancenter.dk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/czjbkqxbq277b32f8c016e9bf980c5/"
+    },
+    {
+      "shown": true,
+      "name": "DanCenter",
+      "domain": "dancenter.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/nnwqyh8bky77b32f8c014275fc7091/"
+    },
+    {
+      "shown": true,
+      "name": "Soul",
+      "domain": "1cgames.net/ru/games/souldanceparty",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/7e8svrq2ik77b32f8c01878f01e993/"
+    },
+    {
+      "shown": true,
+      "name": "Degusta",
+      "domain": "lp.degustabox.com/es-awin",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ptc4ndp24u77b32f8c0188d4770063/"
+    },
+    {
+      "shown": true,
+      "name": "AfB",
+      "domain": "afbshop.fr",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/no3ywsvpyj77b32f8c01d9e886c227/"
+    },
+    {
+      "shown": true,
+      "name": "Sex-shop",
+      "domain": "sex-shop.ua",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/gs0y2gklxg77b32f8c01ba6ea5279e/"
+    },
+    {
+      "shown": true,
+      "name": "HappyEasyGo",
+      "domain": "happyeasygo.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/aqte5037ms77b32f8c016350a04113/"
+    },
+    {
+      "shown": true,
+      "name": "Oppo",
+      "domain": "oppo.com/in/store",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/nnzkfbl7nc77b32f8c0195b092fede/"
+    },
+    {
+      "shown": true,
+      "name": "Vision",
+      "domain": "visionexpress.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/9001ssyrdw77b32f8c01fea27c9970/"
+    },
+    {
+      "shown": true,
+      "name": "Belvilla",
+      "domain": "belvilla.es",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/l31z7wghje77b32f8c01f48f4e90d2/"
+    },
+    {
+      "shown": true,
+      "name": "Zooplus",
+      "domain": "zooplus.es",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/7hbzwxwmfy77b32f8c01905c891d92/"
+    },
+    {
+      "shown": true,
+      "name": "IndeJuice",
+      "domain": "indejuice.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/80a3zsuigq77b32f8c01207ca666de/"
+    },
+    {
+      "shown": true,
+      "name": "Yours",
+      "domain": "yoursclothing.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/s24995qoj177b32f8c017ec0013212/"
+    },
+    {
+      "shown": true,
+      "name": "Watchmaster",
+      "domain": "watchmaster.com/fr",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/vovnxk90z177b32f8c01a44dd2524f/"
+    },
+    {
+      "shown": true,
+      "name": "Cadbury",
+      "domain": "cadburygiftsdirect.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/702wbyeb2g77b32f8c014ae781f40e/"
+    },
+    {
+      "shown": true,
+      "name": "Furniture",
+      "domain": "furnitureinfashion.net",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/6gx8wlr5ek77b32f8c0146b17de0a2/"
+    },
+    {
+      "shown": true,
+      "name": "Outfits24",
+      "domain": "outfits24.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/bzzktt0ybv77b32f8c016280c5ad6f/"
+    },
+    {
+      "shown": true,
+      "name": "Iwantoneofthose",
+      "domain": "iwantoneofthose.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/0fpbmf52g277b32f8c01ad579bfde5/"
+    },
+    {
+      "shown": true,
+      "name": "Qatar",
+      "domain": "qatarairways.com/en-nl/homepage.html",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/92skmon4v377b32f8c0161550710d9/"
+    },
+    {
+      "shown": true,
+      "name": "Viator",
+      "domain": "viator.com/de-DE",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/wbo4zqol5y77b32f8c01030c87595a/"
+    },
+    {
+      "shown": true,
+      "name": "Forum",
+      "domain": "forumsport.com/es-es",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/72slo7ic5177b32f8c01a37d2bb86f/"
+    },
+    {
+      "shown": true,
+      "name": "Cashify",
+      "domain": "cashify.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/2xd6xia8cy77b32f8c017f466a8533/"
+    },
+    {
+      "shown": true,
+      "name": "Aosom",
+      "domain": "aosom.fr",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/6rqrnmja0i77b32f8c01b7c6e10487/"
+    },
+    {
+      "shown": true,
+      "name": "NastyGal",
+      "domain": "nastygal.com/fr",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/dug01cei0z77b32f8c012b892cbf56/"
+    },
+    {
+      "shown": true,
+      "name": "Puzzle",
+      "domain": "puzzle.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/9kr4u0ytcm77b32f8c0194238155ee/"
+    },
+    {
+      "shown": true,
+      "name": "Vermietet",
+      "domain": "vermietet.de",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/9f300upaea77b32f8c0135ff69f132/"
+    },
+    {
+      "shown": true,
+      "name": "ТехноМагия",
+      "domain": "play.google.com/store/apps/details?id=ru.tmgame.client&pli=1",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/129gexy9vx77b32f8c019c5873a93f/"
+    },
+    {
+      "shown": true,
+      "name": "Archiproducts",
+      "domain": "archiproducts.com/it",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/25q6eaze3377b32f8c0134897eb4dd/"
+    },
+    {
+      "shown": true,
+      "name": "Pandora",
+      "domain": "it.pandora.net/it",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/o3g7ya9uy177b32f8c01081eaf4775/"
+    },
+    {
+      "shown": true,
+      "name": "Vistara",
+      "domain": "airvistara.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ydjwc5uabq77b32f8c0172d7142de0/"
+    },
+    {
+      "shown": true,
+      "name": "hidemy.name",
+      "domain": "hidemyna.me/ru/vpn",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/nml4qrv3eo77b32f8c01a4339b0b6f/"
+    },
+    {
+      "shown": true,
+      "name": "megazip",
+      "domain": "megazip.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/jud41iue3n77b32f8c01889a000efe/"
+    },
+    {
+      "shown": true,
+      "name": "Водник",
+      "domain": "vodnik.1000size.ru",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/sjhwrptg1v77b32f8c01138b90ff2d/"
+    },
+    {
+      "shown": true,
+      "name": "Reebok",
+      "domain": "shop4reebok.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/j1ad9o482o77b32f8c0168a694ff9d/"
+    },
+    {
+      "shown": true,
+      "name": "Bombay",
+      "domain": "bombayshavingcompany.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/zzbpm15e3g77b32f8c01422061a338/"
+    },
+    {
+      "shown": true,
+      "name": "Mothercare",
+      "domain": "mothercare.ae/en",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/m45lnav38077b32f8c010ec1e60958/"
+    },
+    {
+      "shown": true,
+      "name": "Joigifts",
+      "domain": "joigifts.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/umi6jk76yw77b32f8c01e9959d1f34/"
+    },
+    {
+      "shown": true,
+      "name": "Victoria's",
+      "domain": "victoriassecret.ae/en",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/qi3tcmqhk277b32f8c015b775d128d/"
+    },
+    {
+      "shown": true,
+      "name": "H&M",
+      "domain": "ae.hm.com/en",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/hzlo6dpe2b77b32f8c011b24ab9504/"
+    },
+    {
+      "shown": true,
+      "name": "Pottery",
+      "domain": "potterybarn.ae/en",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/hak848wxff77b32f8c013929b57187/"
+    },
+    {
+      "shown": true,
+      "name": "Footlocker",
+      "domain": "footlocker.ae/en",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ajlcupyx6f77b32f8c0155df12721b/"
+    },
+    {
+      "shown": true,
+      "name": "Bath",
+      "domain": "bathandbodyworks.ae/en",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/flhvmfzgg077b32f8c01138e6e819a/"
+    },
+    {
+      "shown": true,
+      "name": "Karazlinen",
+      "domain": "karazlinen.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ypi3cfnknt77b32f8c01b3961beb70/"
+    },
+    {
+      "shown": true,
+      "name": "CCleaner",
+      "domain": "ccleaner.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/7olv2lfr2577b32f8c015c3e9bc233/"
+    },
+    {
+      "shown": true,
+      "name": "West",
+      "domain": "westelm.ae/en",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/03mwou5x7x77b32f8c01cf8e2e3afe/"
+    },
+    {
+      "shown": true,
+      "name": "Kamaayurveda",
+      "domain": "kamaayurveda.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/e59udl9egf77b32f8c01940deea487/"
+    },
+    {
+      "shown": true,
+      "name": "Kiehls",
+      "domain": "kiehls.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/sv58ulo0fn77b32f8c01f074fc9e4b/"
+    },
+    {
+      "shown": true,
+      "name": "Eoutlet",
+      "domain": "eoutlet.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/f6id5nshbu77b32f8c018187d7b9b6/"
+    },
+    {
+      "shown": true,
+      "name": "American",
+      "domain": "americaneagle.ae/en",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/2rty560cny77b32f8c01e0ae4a93d2/"
+    },
+    {
+      "shown": true,
+      "name": "Kapiva",
+      "domain": "kapiva.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/oqxdu8byxq77b32f8c018f2eb3eec0/"
+    },
+    {
+      "shown": true,
+      "name": "WE-VIBE",
+      "domain": "we-vibe.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/p0fqcgsdc077b32f8c015009db3f18/"
+    },
+    {
+      "shown": true,
+      "name": "Sedarglobal",
+      "domain": "sedarglobal.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/271utp80e277b32f8c0198c772a893/"
+    },
+    {
+      "shown": true,
+      "name": "FFP2",
+      "domain": "ffp2.io",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/m0w9iua5s377b32f8c01ae17bb662b/"
+    },
+    {
+      "shown": true,
+      "name": "FeelUnique",
+      "domain": "mena.feelunique.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/03wo5mgoi377b32f8c0103f42e5316/"
+    },
+    {
+      "shown": true,
+      "name": "Prolon",
+      "domain": "prolon.ae",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/9caxztgx3c77b32f8c0174e1ec7da3/"
+    },
+    {
+      "shown": true,
+      "name": "Damensch",
+      "domain": "damensch.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/e6n26823d377b32f8c019e926e9bd6/"
+    },
+    {
+      "shown": true,
+      "name": "Mahzooz",
+      "domain": "mahzooz.ae/en",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/pm4t6dmdxu77b32f8c01d5cde0c1db/"
+    },
+    {
+      "shown": true,
+      "name": "Ofour",
+      "domain": "ofour.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/mm94nd9qcw77b32f8c0187e8291281/"
+    },
+    {
+      "shown": true,
+      "name": "Loccitane",
+      "domain": "ae.loccitane.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/o5nsqssjgn77b32f8c01074ed29151/"
+    },
+    {
+      "shown": true,
+      "name": "Peintures",
+      "domain": "peinturesparnumeros.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/mfr50dvjse77b32f8c01abe71cf016/"
+    },
+    {
+      "shown": true,
+      "name": "DGhelp",
+      "domain": "dghelp.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/j3xsaeza0877b32f8c013b75ca707a/"
+    },
+    {
+      "shown": true,
+      "name": "Brandrange",
+      "domain": "brandrange.com/en",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/6n38yfpfp077b32f8c016be68aa13c/"
+    },
+    {
+      "shown": true,
+      "name": "sleepit",
+      "domain": "fr.sleepit.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/xeeqadkjtz77b32f8c01bb8549cd79/"
+    },
+    {
+      "shown": true,
+      "name": "Sanfe",
+      "domain": "sanfe.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/nscpaamuqy77b32f8c01d580083668/"
+    },
+    {
+      "shown": true,
+      "name": "Robert",
+      "domain": "robertdyas.co.uk",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/xvy4bxvqqu77b32f8c01cbe9b3bab6/"
+    },
+    {
+      "shown": true,
+      "name": "Truebill",
+      "domain": "truebill.com",
+      "target": "/",
+      "shutaf": "https://truebill.i679.net/c/2670192/616684/10034"
+    },
+    {
+      "shown": true,
+      "name": "BOTS",
+      "domain": "en.bots.io",
+      "target": "/",
+      "shutaf": "https://bots.sjv.io/c/2670192/981280/12935"
+    },
+    {
+      "shown": true,
+      "name": "Localrent.com",
+      "domain": "localrent.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/66o8jzb2p977b32f8c014f47f3b6f3/"
+    },
+    {
+      "shown": true,
+      "name": "Touch",
+      "domain": "touch.com.ua",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/ynys1f2mjp77b32f8c010e81904d8b/"
+    },
+    {
+      "shown": true,
+      "name": "Arata",
+      "domain": "arata.in",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/5dc5uquc7w77b32f8c0181936b4054/"
+    },
+    {
+      "shown": true,
+      "name": "Fk",
+      "domain": "fk.by",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/fhykijjk4977b32f8c012634433360/"
+    },
+    {
+      "shown": true,
+      "name": "Cylance",
+      "domain": "promos.cylance.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/mof70hoehe77b32f8c012c3f3f79e5/"
+    },
+    {
+      "shown": true,
+      "name": "ClickOnCare",
+      "domain": "clickoncare.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/kbb8on8x3977b32f8c01c32d12d039/"
+    },
+    {
+      "shown": true,
+      "name": "Vedix",
+      "domain": "vedix.com",
+      "target": "/",
+      "shutaf": "https://ad.admitad.com/g/nq2rkm0k5x77b32f8c016e9b316812/"
+    }
+]
