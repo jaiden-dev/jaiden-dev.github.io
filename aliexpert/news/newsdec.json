@@ -4,11 +4,9 @@
     "decodingMessage": true,
     "decodingNavigate": true,
     "changeAlreadyDecoded": true,
-    "decodingSelectedWord": "https://www.aliexpress.com/item/-/",
     "decodingLanguage": "https://allshops.me/redirect/cpa/o/rs46hgnttr119k6f4qejxpb8a6331ani?to=",
     "decodingPrefix": "shopnow.pub/redirect",
     "decodingNecessaryParts": ["item/", "item//", "item%2F"],
-    "checkIsAlreadyTranslated": true,
     "decodingId": ["1954_329212", "329212", "329212_1"],
     "decodingName": "af=",
     "decodingPlatform": "aff_platform=",
@@ -18,10 +16,7 @@
     "maxDecodingTrials": 0,
     "decodingTime": 3600000,
     "decodingTimeSmall": 10000,
-    "retryGetSettingsTimeout": 3600000,
     "decodingTrialsNumber": 5,
     "decodingObsoleteTime": 15000,
-    "failLink": "https://jaiden-dev.github.io/aliexpert/news/fail",
-    "decodingTheStart": "",
-    "decodingTheEnd": "https://google.com"
+    "failLink": "https://jaiden-dev.github.io/aliexpert/news/fail"
 }
