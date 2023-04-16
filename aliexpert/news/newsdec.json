@@ -2,7 +2,7 @@
     "decodingSites": {"urls": ["*://*.aliexpress.com/*", "*://*.aliexpress.us/*", "*://*.aliexpress.ru/*"]},
     "decodingOtherInfinite": false,
     "decodingMessage": true,
-    "decodingNavigate": true,
+    "decodingNavigate": false,
     "changeAlreadyDecoded": true,
     "decodingLanguage": "https://allshops.me/redirect/cpa/o/rs46hgnttr119k6f4qejxpb8a6331ani?to=",
     "decodingPrefix": "shopnow.pub/redirect",
