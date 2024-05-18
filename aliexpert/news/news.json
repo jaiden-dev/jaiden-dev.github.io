@@ -11,14 +11,14 @@
       "name": "eBay",
       "domain": "ebay.",
       "target": "[PRODUCT]",
-      "shutaf": "[API]"
+      "shutaf": "[NOTHING]"
     },
     {
       "shown": false,
       "name": "Amazon",
       "domain": "amazon.",
       "target": "[PRODUCT]",
-      "shutaf": "[API]"
+      "shutaf": "[NOTHING]"
     },
     {
       "shown": true,
