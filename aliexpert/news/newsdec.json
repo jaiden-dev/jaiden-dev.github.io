@@ -20,5 +20,7 @@
     "decodingTimeSmall": 10000,
     "decodingTrialsNumber": 5,
     "decodingObsoleteTime": 15000,
+    "decodingMetaArray": ["aff_fcid"],
+    "decodingTimeTagName": "time_tag",
     "failLink": "https://jaiden-dev.github.io/aliexpert/news/fail"
 }
