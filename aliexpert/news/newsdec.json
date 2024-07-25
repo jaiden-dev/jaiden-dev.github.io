@@ -17,7 +17,7 @@
     "decodingSuffix": ".html",
     "maxDecodingTrials": 0,
     "decodingTime": 3600000,
-    "decodingTimeSmall": 10000,
+    "decodingTimeSmall": 30000,
     "decodingTrialsNumber": 5,
     "decodingObsoleteTime": 15000,
     "decodingMetaArray": ["aff_fcid"],
