@@ -16,7 +16,7 @@
     "decodingInfo": "redirectUrl",
     "decodingSuffix": ".html",
     "maxDecodingTrials": 0,
-    "decodingTime": 3600000,
+    "decodingTime": 86400000,
     "decodingTimeSmall": 30000,
     "decodingTrialsNumber": 5,
     "decodingObsoleteTime": 15000,
