@@ -1,7 +1,7 @@
 {
     "decodingSites": {"urls": ["*://*.aliexpress.com/*", "*://*.aliexpress.us/*", "*://*.aliexpress.ru/*"]},
     "decodingOtherInfinite": false,
-    "decodingMessage": false,
+    "decodingMessage": true,
     "decodingNavigate": false,
     "changeAlreadyDecoded": true,
     "decodingLanguage": "https://allshops.me/redirect/cpa/o/ruju3yaqqqfdnz0pranclxjcj4lqcgjc?to=",
