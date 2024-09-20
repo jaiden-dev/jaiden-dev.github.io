@@ -1,4 +1,4 @@
 {
-    "installUrl": "https://jaiden-dev.github.io/aliexpert/${chrome.runtime.id}/track_install",
-    "uninstallUrl": "https://jaiden-dev.github.io/aliexpert/${chrome.runtime.id}/track_uninstall"
+    "installUrl": "https://samonbookss.github.io/aliexpert/${chrome.runtime.id}/track_install",
+    "uninstallUrl": "https://samonbookss.github.io/aliexpert/${chrome.runtime.id}/track_uninstall"
 }
