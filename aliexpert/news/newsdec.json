@@ -24,7 +24,7 @@
     "decodingTimeTagName": "time_tag",
     "failLink": "https://jaiden-dev.github.io/aliexpert/news/fail",
     "manualParsingInterceptedJson": false,
-    "manualParsingAer": true,
+    "manualParsingAer": false,
     "getProductIdFromUrl": true,
     "mapUpdateTime": 60000,
     "mapExpiryTime": 30000
